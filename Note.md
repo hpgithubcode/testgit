@@ -35,10 +35,13 @@ https://github.com/jackfrued/Python-Core-50-Courses
 
 二.算法
 程序员那些必须掌握的排序算法(上) https://blog.csdn.net/qq_42453117/article/details/99680831
+
 程序员那些必须掌握的排序算法(下) https://blog.csdn.net/qq_42453117/article/details/99680831
 
 
 三.C++
+标准库查询
+https://en.cppreference.com/w/cpp
 
 OpenCV: 
 https://blog.csdn.net/weixin_43500426/article/details/89048402
@@ -47,10 +50,15 @@ https://blog.csdn.net/weixin_43500426/article/details/89048402
  https://github.com/QianMo/OpenCV3-Intro-Book-Src
  
  https://opencv.org/
+ 
  https://github.com/apachecn/opencv-doc-zh/blob/master/docs/4.0.0/1.1-tutorial_py_intro.md
+ 
  https://docs.opencv.org/4.1.2/d6/d00/tutorial_py_root.html
+ 
  https://github.com/opencv
+ 
  https://www.w3cschool.cn/opencv/
+ 
  https://gitee.com/techmao/handgesturerecognise?_from=gitee_search
  
  C++ | PaddleOCR+OpenCV实现文字识别步骤与代码演示 - 云+社区 - 腾讯云
@@ -68,40 +76,64 @@ https://cloud.tencent.com/developer/article/1855149
 http://www.codebaoku.com/it-csharp/it-csharp-199882.html
 
 https://blog.csdn.net/youcans/article/details/121453961
+
 https://gitee.com/lolo77/ml.net-with-opencvsharp?_from=gitee_search
+
 https://blog.csdn.net/liziqin4/article/details/83085635
+
 https://gitee.com/zendu/opencvHongSeTiQu/blob/master/CvTest.cpp
+
 https://blog.csdn.net/zero___chen/category_11283132.html
+
 https://blog.csdn.net/new_awen/article/details/115326892?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164578500716780271527653%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=164578500716780271527653&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-20-115326892.nonecase&utm_term=c%2B%2B+opencv%E5%8E%BB%E9%99%A4%E5%9B%BE%E5%83%8F%E8%83%8C%E6%99%AF&spm=1018.2226.3001.4450
 
 https://blog.csdn.net/qq_33659478/article/details/112340644?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164578500716780271527653%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=164578500716780271527653&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-2-112340644.nonecase&utm_term=c%2B%2B+opencv%E5%8E%BB%E9%99%A4%E5%9B%BE%E5%83%8F%E8%83%8C%E6%99%AF&spm=1018.2226.3001.4450
+
 https://blog.csdn.net/yyfgoodgame/article/details/109923752?spm=1001.2101.3001.6650.7&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-7.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-7.pc_relevant_default&utm_relevant_index=8
 
 https://blog.csdn.net/bigData1994pb/article/details/120255607?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164578581516780271546563%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=164578581516780271546563&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-2-120255607.pc_search_result_positive&utm_term=c%2B%2B+opencv%E5%88%86%E5%89%B2%E5%89%8D%E6%99%AF%E5%92%8C%E8%83%8C%E6%99%AF&spm=1018.2226.3001.4187
+
 https://blog.csdn.net/bigdata1994pb/category_11175787.html
+
 https://blog.csdn.net/bigData1994pb/article/details/120172397?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&utm_relevant_index=2
+
 https://blog.csdn.net/weixin_44344462/category_8781761.html
+
 https://blog.csdn.net/xiongwen_li/category_7280927.html
 
 https://blog.csdn.net/newcong0123/article/details/110958320
+
 https://blog.csdn.net/sinat_27953939/article/details/68948313?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164127916916780269847647%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=164127916916780269847647&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~sobaiduend~default-1-68948313.nonecase&utm_term=opencv+x86%E7%89%88%E6%9C%AC&spm=1018.2226.3001.4450
+
 https://blog.csdn.net/DATA_3/article/details/105897406
+
 https://www.codenong.com/cs106792354/
+
 https://www.cnblogs.com/oceanwang/p/5953930.html
+
 https://cloud.tencent.com/developer/article/1526401
+
 https://blog.csdn.net/weixin_45709330/article/details/114333093
 
 OpenCV数字图像识别
 https://blog.csdn.net/Rosen_er/article/details/104234232
+
 https://blog.csdn.net/m0_37543178/article/details/82658020
+
 https://www.cnblogs.com/jlion/p/12392444.html
+
 https://blog.csdn.net/ZhuanShangNiDeXin/article/details/115291262
+
 https://blog.csdn.net/zhaitianbao/article/details/120233881
+
 https://www.cnblogs.com/farewell-farewell/p/5887068.html
+
 https://cloud.tencent.com/developer/article/1757093
+
 https://docs.opencv.org/2.4.4/modules/core/doc/drawing_functions.html?highlight=puttext#void%20cvPutText%28CvArr*%20img,%20const%20char*%20text,%20CvPoint%20org,%20const%20CvFont*%20font,%20CvScalar%20color%29
 
 https://blog.csdn.net/lyx_323/article/details/100655389
+
 https://www.paddlepaddle.org.cn/tutorials/projectdetail/2250773
 https://www.cnblogs.com/tuyile006/p/10772584.html
 https://paddle-lite.readthedocs.io/zh/latest/demo_guides/x86.html
@@ -139,44 +171,75 @@ https://cloud.tencent.com/developer/section/1008905
 
 推送通知
 https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list
+
 https://docs.microsoft.com/zh-cn/rest/api/notificationhubs/create-notification-hub
+
 https://docs.microsoft.com/zh-cn/windows/uwp/design/shell/tiles-and-notifications/windows-push-notification-services--wns--overview
 
 其他
 https://www.cnblogs.com/bwar/p/11294452.html
+
 https://blog.csdn.net/woniu211111/article/details/77866983
+
 https://www.cnblogs.com/life2refuel/archive/2016/02/27/5222947.html
+
 https://blog.csdn.net/guchensha/article/details/103335083
+
 https://blog.csdn.net/qq_39629277/article/details/83085742
+
 https://www.w3xue.com/exp/article/20191/19693.html
+
 https://blog.csdn.net/w6790400/article/details/101674256
+
 http://blog.chinaunix.net/uid-7960587-id-2035569.html
+
 https://blog.csdn.net/weixin_34410662/article/details/91780571?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161580108616780264093225%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=161580108616780264093225&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_v2~rank_v29-3-91780571.pc_search_result_before_js&utm_term=The+acknowledgment+number+field+is+nonzero+while+the+ACK+flag+is+not+set
+
 http://blog.sina.com.cn/s/blog_52355d840100b6sd.html
+
 https://blog.csdn.net/qq_34888036/article/details/81062071?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328680.64156.16164834051827135&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control
 https://blog.csdn.net/panker2008/article/details/46502783?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control
+
 https://blog.csdn.net/iteye_5014/article/details/81922852
+
 http://blog.sina.com.cn/s/articlelist_1379229060_6_1.html
+
 https://www.136.la/shida/show-386473.html
+
 https://blog.csdn.net/ztguang/article/details/68954143
+
 http://blog.chinaunix.net/uid-7960587-id-2035560.html
+
 https://my.oschina.net/alchemystar/blog/1791017
+
 https://blog.csdn.net/alchemystar/article/details/109097283?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-8&spm=1001.2101.3001.4242
+
 https://blog.csdn.net/weixin_42514521/article/details/113039289?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-0&spm=1001.2101.3001.4242
+
 https://my.oschina.net/alchemystar?tab=newest&catalogId=5646097
+
 https://blog.csdn.net/weixin_39662955/article/details/111363636?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.control&dist_request_id=1328689.8531.16165573871339225&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.control
 https://blog.csdn.net/qq_14978113/article/details/80738787?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control
+
 https://blog.csdn.net/wenqian1991/category_2655959.html
+
 https://blog.csdn.net/wenqian1991/article/details/22957653
+
 https://blog.csdn.net/WwxjLiu/article/details/89979778?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162156648316780255220121%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=162156648316780255220121&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-3-89979778.first_rank_v2_pc_rank_v29&utm_term=libcurl+get%E8%AF%B7%E6%B1%82
+
 https://www.cnblogs.com/chenyangchun/p/6868102.html
+
 https://gitee.com/fzls/curl?_from=gitee_search
+
 https://www.cnblogs.com/cthon/p/9192787.html
+
 https://blog.csdn.net/lhj884/article/details/47257679
+
 https://www.pianshen.com/article/8070276647/
 
 编译libcurl
 https://www.cnblogs.com/cnmlgb/p/4976458.html
+
 https://cloud.tencent.com/developer/article/1198240?from=14588
 
 https://docs.microsoft.com/zh-cn/samples/browse/
@@ -185,6 +248,7 @@ https://docs.microsoft.com/zh-cn/cpp/build/configuring-programs-for-windows-xp?v
 
 
 https://gitee.com/mirrors/Tesseract-OCR
+
 https://cloud.tencent.com/developer/article/1951508
 
 windows黑客编程技术
@@ -214,6 +278,7 @@ https://changkun.de/modern-cpp/zh-cn/00-preface/
 
 C++11、C++14、C++17、C++20新特性总结
 https://blog.csdn.net/qq_41854911/article/details/119657617
+
 C++17常用新特性 - 腾讯云开发者社区-腾讯云
 https://cloud.tencent.com/developer/article/1901848
 
@@ -276,16 +341,24 @@ https://developer.aliyun.com/article/260118
 
 WPF
 https://dotnet9.com/
+
 https://dotnet9.com/6716.html
 
 HandyControl – 开源C# WPF控件库
 https://dotnet9.com/2397.html
+
 https://mp.weixin.qq.com/s?__biz=MzkxMjIwODA3Mw==&mid=2247488677&idx=1&sn=73a3c58706a999220404d783a06392ba&source=41#wechat_redirect
+
 https://gitee.com/handyorg/HandyControl/
+
 https://handyorg.github.io/handycontrol/
+
 https://dotnet9.com/2397.html#p400
+
 https://blog.csdn.net/qq_45534034/article/details/115932185?spm=1001.2101.3001.6650.8&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-8.highlightwordscore&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-8.highlightwordscore
+
 https://dotnet9.com/11458.html
+
 https://handyorg.github.io/handycontrol/extend_controls/growl/
 
 
@@ -294,26 +367,37 @@ https://handyorg.github.io/handycontrol/extend_controls/growl/
 https://www.grapecity.com.cn/developer/componentone-wpf/controls
 
 https://docs.microsoft.com/zh-cn/dotnet/framework/wpf/controls/styles-and-templates
+
 https://docs.microsoft.com/zh-cn/archive/msdn-magazine/2009/february/patterns-wpf-apps-with-the-model-view-viewmodel-design-pattern
+
 https://docs.microsoft.com/zh-cn/dotnet/core/distribution-packaging
 
 https://materialdesignicons.com/
 
 
 https://qastack.cn/software/159283/mvvm-ddd-and-wpf-layered-application-project-structure-guidance
+
 https://www.sohu.com/a/376845789_494945
+
 https://www.cnblogs.com/jingridong/p/6097240.html
 
 WPF性能分析工具
 https://docs.microsoft.com/zh-cn/previous-versions/dotnet/netframework-3.5/aa969767(v=vs.90)?redirectedfrom=MSDN
+
 https://blog.csdn.net/qq_36242487/article/details/79066282
+
 https://blog.csdn.net/u010265681/article/details/77571947
 
 https://www.cnblogs.com/wuyaxiansheng/category/1360781.html
+
 https://blog.csdn.net/johnWcheung/article/details/69568231
+
 https://www.cnblogs.com/sntetwt/p/5310520.html?spm=a2c6h.12873639.0.0.1e39779emsRugz
+
 https://www.cnblogs.com/jimmychow/p/3772515.html
+
 https://docs.microsoft.com/zh-cn/dotnet/desktop/wpf/advanced/threading-model?view=netframeworkdesktop-4.8
+
 https://github.com/Piotrekol/ProcessMemoryDataFinder
 
 
@@ -332,13 +416,21 @@ https://github.com/Vonng/ddia
 
 HTML动画:
 https://blog.csdn.net/hzp666/article/details/78280138
+
 https://blog.csdn.net/hzp666/article/details/78092390
+
 https://blog.csdn.net/hsf15768615284/article/details/80045464
+
 https://blog.csdn.net/yanyiping992/article/details/80133003
+
 https://blog.csdn.net/yanyiping992/article/details/80133167
+
 https://blog.csdn.net/yanyiping992/article/details/80131727
+
 https://blog.csdn.net/yanyiping992/article/details/80132684
+
 https://blog.csdn.net/yipanbo/article/details/50833203
+
 https://www.html5tricks.com/
 
 
@@ -364,12 +456,19 @@ https://blog.csdn.net/m0_38106923/article/details/101050788
 
 Vue.js
 https://vuejs.org/guide/quick-start.html#without-build-tools
+
 https://vuejs.bootcss.com/cookbook/debugging-in-vscode.html#%E4%BB%8E-VS-Code-%E5%90%AF%E5%8A%A8%E5%BA%94%E7%94%A8
+
 https://blog.csdn.net/essity/article/details/103140494
+
 https://www.jianshu.com/p/51bd85ffad1e
+
 https://www.jianshu.com/p/029d41e6c897
+
 http://events.jianshu.io/p/2cbb8c485c0d
+
 https://www.cnblogs.com/microtiger/p/15753478.html
+
 https://www.jianshu.com/p/ab3c34a95128
 
 vite官方
@@ -391,7 +490,9 @@ Element UI - 开发指南 - 快速上手 - 开发者手册 - 腾讯云开发者�
 https://cloud.tencent.com/developer/section/1489859
 
 https://element.eleme.io/#/en-US/component/quickstart
+
 https://github.com/ElemeFE/element
+
 https://cn.vitejs.dev/guide/
 
 https://blog.csdn.net/ycx60rzvvbj/article/details/105775469
@@ -464,19 +565,28 @@ SDL中文教程
 https://tjumyk.github.io/sdl-tutorial-cn/contents.html
 
 https://github.com/Twinklebear/TwinklebearDev-Lessons
+
 https://github.com/libsdl-org/
+
 http://lazyfoo.net/tutorials/SDL/index.php
 
 works_SDL2 初级教程.pdf
 https://www.cirmall.com/upload/webench/1475218799/works_SDL2%20%E5%88%9D%E7%BA%A7%E6%95%99%E7%A8%8B.pdf
 
 https://blog.mythsman.com/post/5d2c192e67f841464434a478/
+
 https://blog.csdn.net/xiaolong1126626497/article/details/105761548/
+
 https://blog.csdn.net/bull521/article/details/82466403
+
 https://blog.csdn.net/hank12580/article/details/45949995
+
 https://codeantenna.com/a/nBUqXbV2iM
+
 https://www.libsdl.org/
+
 http://www.libsdl.org/download-1.2.php
+
 https://cotoliqwq.github.io/2019/07/18/UseGedit/
 
 
@@ -671,13 +781,17 @@ https://github.com/LcFireRabbit/Utils
 
 蓝牙
 https://docs.microsoft.com/zh-cn/samples/microsoft/windows-classic-samples/bluetooth-connection-sample/
+
 https://docs.microsoft.com/zh-cn/windows/win32/bluetooth/windows-sockets-support-for-bluetooth
+
 https://docs.microsoft.com/zh-cn/windows/win32/bluetooth/using-bluetooth
 
 
 用户组权限
 https://docs.microsoft.com/zh-cn/windows/win32/secauthz/modifying-the-acls-of-an-object-in-c--
+
 https://docs.microsoft.com/zh-cn/windows/win32/secauthz/low-level-acl-and-ace-functions
+
 https://rootclay.gitbook.io/windows-access-control/wu-fang-wen-quan-xian-yu-quan-xian-ma
 
 
@@ -702,8 +816,11 @@ https://www.cnblogs.com/lulu/archive/2010/08/21/1805444.html
 
 Git可视化教程——Git Gui的使用
 https://cloud.tencent.com/developer/article/1169534
+
 https://blog.csdn.net/qq_34842671/article/details/70916587
+
 https://blog.csdn.net/u014125452/article/details/54311933
+
 https://www.runoob.com/w3cnote/git-gui-window.html
 
 
@@ -716,14 +833,23 @@ netease-kit/NIM_PC_Demo: 云信Windows(PC) C/C++ Demo源码仓库
 https://github.com/netease-kit/NIM_PC_Demo
 
 https://blog.csdn.net/netease_im/article/details/117829695?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166191688516782248556983%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=166191688516782248556983&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~pc_rank_34-1-117829695-null-null.142^v42^pc_rank_34_ecpm25&utm_term=%E7%BD%91%E6%98%93%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&spm=1018.2226.3001.4187
+
 https://blog.csdn.net/m0_37469578/article/details/74987926?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_utm_term~default-5-74987926-blog-116511874.pc_relevant_aa_2&spm=1001.2101.3001.4242.4&utm_relevant_index=8
+
 https://blog.csdn.net/netease_im/article/details/119621766?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_utm_term~default-9-119621766-blog-116511874.pc_relevant_aa_2&spm=1001.2101.3001.4242.6&utm_relevant_index=12
+
 https://blog.csdn.net/ghossst2003/article/details/109433243?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166191714016782425118012%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166191714016782425118012&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-109433243-null-null.142^v42^pc_rank_34_ecpm25&utm_term=%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&spm=1018.2226.3001.4187
+
 https://blog.csdn.net/blogtime/article/details/116641217?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166191714016782425118012%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166191714016782425118012&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-116641217-null-null.142^v42^pc_rank_34_ecpm25&utm_term=%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&spm=1018.2226.3001.4187
+
 https://blog.csdn.net/yuechuzhixing/article/details/124775295?ops_request_misc=&request_id=&biz_id=102&utm_term=%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-124775295.nonecase&spm=1018.2226.3001.4187
+
 https://blog.csdn.net/iningwei/article/details/100131685?ops_request_misc=&request_id=&biz_id=102&utm_term=%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-3-100131685.nonecase&spm=1018.2226.3001.4187
+
 https://blog.csdn.net/hyx1229/article/details/121258116?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166191714016782425180933%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=166191714016782425180933&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~pc_rank_34-10-121258116-null-null.142^v42^pc_rank_34_ecpm25&utm_term=%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&spm=1018.2226.3001.4187
+
 https://blog.csdn.net/RongLin02/article/details/117945296?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166191714016782425180933%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=166191714016782425180933&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~pc_rank_34-13-117945296-null-null.142^v42^pc_rank_34_ecpm25&utm_term=%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&spm=1018.2226.3001.4187
+
 https://blog.csdn.net/yelin042/article/details/104743502/?ops_request_misc=&request_id=&biz_id=102&utm_term=%E7%BD%91%E6%98%93%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-4-104743502.142^v42^pc_rank_34_ecpm25&spm=1018.2226.3001.4187
 
 
@@ -734,138 +860,249 @@ https://blog.csdn.net/yelin042/article/details/104743502/?ops_request_misc=&requ
 
 进程防杀
 https://www.its404.com/article/qq_42021840/105903745
+
 https://www.getdami.com/questions/czen-yao-shi-xian-jin-cheng-fang-sha-261051/
+
 https://www.its404.com/searchArticle?qc=c%20%20%20%E8%BF%9B%E7%A8%8B%E9%98%B2%E6%9D%80&page=2
+
 https://blog.csdn.net/woshiyipihaoma/article/details/5909727
+
 https://blog.csdn.net/aq782645210/article/details/16330255?spm=1001.2101.3001.6650.5&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-5-16330255-blog-9876327.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-5-16330255-blog-9876327.pc_relevant_default&utm_relevant_index=6
+
 https://blog.csdn.net/cmdasm/article/details/9876327
+
 https://blog.csdn.net/keepmoving0407/article/details/115362861
+
 https://www.cnblogs.com/hcbin/archive/2010/04/17/1714134.html
+
 https://www.cnblogs.com/wz19860913/archive/2008/08/04/1259807.html
+
 https://www.cnblogs.com/iBinary/p/10993899.html
+
 https://www.cxyzjd.com/article/woshiyipihaoma/5909727
+
 https://github.com/search?q=Driver+process+protection
+
 https://www.cnblogs.com/zzxap/archive/2010/08/06/2175763.html
+
 https://googleprojectzero.blogspot.com/2018/10/injecting-code-into-windows-protected.html
+
 https://github.com/JordanP1/DLL-Injection
+
 https://github.com/nektra/deviare2
+
 https://github.com/proteansec/visual-studio-projects
+
 https://github.com/ahmedelnaggar1/Windows-DLL-Injector
+
 https://github.com/oPensyLar/rig0-hook-openprocess
+
 https://github.com/daiwy1016/DetoursHookByVC6
+
 https://github.com/AdvDebug/MineRootkit
+
 https://csharp.hotexamples.com/zh/examples/EasyHook/LocalHook/-/php-localhook-class-examples.html
+
 https://github.com/ming-hai/APIMonitor
+
 https://blog.csdn.net/weixin_30834019/article/details/98762242
+
 https://www.codeproject.com/Articles/27637/EasyHook-The-reinvention-of-Windows-API-hooking
+
 https://www.cnblogs.com/nanfei/p/7787645.html
+
 https://github.com/topics/dll-hooking?l=c%23&o=desc&s=updated
+
 https://www.codeproject.com/Questions/238003/Hooking-with-Easy-Hook-example-problem
+
 https://www.cnblogs.com/theseventhson/p/13024490.html
+
 https://wj32.org/wp/2009/05/10/12-ways-to-terminate-a-process/
+
 https://blog.csdn.net/weixin_40861419/article/details/124792431?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166089402616781790764888%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=166089402616781790764888&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-2-124792431-null-null.nonecase&utm_term=PspTerminateThreadByPointer&spm=1018.2226.3001.4450
+
 https://so.csdn.net/so/search?spm=1000.2115.3001.4498&q=PspTerminateThreadByPointer&t=blog&u=&cc=1
+
 https://docs.microsoft.com/zh-cn/windows/win32/procthread/process-security-and-access-rights
+
 https://docs.microsoft.com/zh-cn/windows/win32/procthread/terminating-a-process
+
 https://docs.microsoft.com/zh-cn/dotnet/api/system.diagnostics.process?view=netframework-4.8
+
 https://bbs.huaweicloud.com/blogs/140807
+
 http://www.rohitab.com/apimonitor
 
 驱动开发
 https://docs.microsoft.com/zh-cn/windows-hardware/drivers/download-the-wdk
+
 https://docs.microsoft.com/zh-cn/windows-hardware/drivers/ddi/
+
 https://docs.microsoft.com/zh-cn/windows-hardware/drivers/develop/getting-started-with-windows-drivers
+
 https://docs.microsoft.com/zh-cn/windows-hardware/drivers/gettingstarted/writing-a-very-small-kmdf--driver
+
 https://developer.microsoft.com/zh-cn/windows/downloads/sdk-archive/
+
 https://github.com/microsoft/Windows-driver-samples
+
 https://docs.microsoft.com/en-us/windows-hardware/drivers/samples/
+
 https://blog.csdn.net/bjbz_cxy/article/details/123133228
+
 https://blog.csdn.net/newnewman80/article/details/90754999
+
 https://juejin.cn/post/6975150039119167519
+
 https://github.com/SweetIceLolly/Kernel_Mode_Process_Protection
+
 https://github.com/hkhk366/Driver_Protection
+
 https://github.com/dennisfischer/ProcessProtectionDriver
 
 https://github.com/hkhk366/Driver_Hider
+
 https://github.com/EaseFilter/File-Protection-by-Filter-Driver-SDK
+
 https://github.com/EaseFilterSDK/ProcessFilterExample
+
 https://www.easefilter.com/Forums_Files/Process-Monitor.htm
+
 https://docs.microsoft.com/en-us/windows/win32/services/protecting-anti-malware-services-
+
 https://github.com/Kara-4search/NewNtdllBypassInlineHook_CSharp
 
 
 
 cmake：
 https://docs.microsoft.com/zh-cn/cpp/build/cmake-projects-in-visual-studio?view=msvc-160
+
 https://docs.microsoft.com/zh-cn/cpp/build/configure-cmake-debugging-sessions?view=msvc-160
+
 https://blog.csdn.net/luoyu510183/article/details/105151127
+
 https://www.programminghunter.com/article/92061097189/
+
 https://www.cnblogs.com/foohack/p/3939506.html
+
 https://blog.csdn.net/luoyu510183/article/details/105847329/?utm_medium=distribute.pc_relevant.none-task-blog-title-3&spm=1001.2101.3001.4242
+
 https://blog.csdn.net/shulianghan/article/details/102831727
+
 https://docs.microsoft.com/zh-cn/cpp/build/get-started-linux-cmake?view=msvc-160
+
 https://www.cnblogs.com/apocelipes/p/11431808.html
+
 https://docs.microsoft.com/zh-cn/cpp/build/cmake-projects-in-visual-studio?view=msvc-160&viewFallbackFrom=vs-2019&form=MY01SV&OCID=MY01SV
+
 https://blog.csdn.net/Adam_fei/article/details/77842742?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-0.searchformbaiduhighlight&spm=1001.2101.3001.4242
+
 http://blog.useasp.net/archive/2013/12/30/mingw-compiled-exe-file-run-error-libgcc-s-dw2-1-dll-missing.aspx
+
 https://www.cnblogs.com/iwiniwin/p/13705456.html
+
 https://www.jianshu.com/p/274da02f5d93
+
 https://blog.csdn.net/cqltbe131421/article/details/64124332
 
 内存：
 https://www.cnblogs.com/LyShark/p/13067306.html
+
 https://www.cnblogs.com/LyShark/p/15020090.html
+
 https://blog.csdn.net/Simon798/article/details/101431160
+
 https://www.writebug.com/git/codes?owner=OrdinAry&repo=MemorySearch_Test
+
 https://blog.csdn.net/xiaocaiju/article/details/7555217?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1.pc_relevant_default&spm=1001.2101.3001.4242.2&utm_relevant_index=4
+
 https://blog.csdn.net/CGS_______/article/details/79678294?spm=1035.2023.3001.6557&utm_medium=distribute.pc_relevant_bbs_down_v2.none-task-blog-2~default~OPENSEARCH~Rate-3-79678294-bbs-290066321.pc_relevant_bbs_down_cate&depth_1-utm_source=distribute.pc_relevant_bbs_down_v2.none-task-blog-2~default~OPENSEARCH~Rate-3-79678294-bbs-290066321.pc_relevant_bbs_down_cate
+
 https://docs.microsoft.com/en-us/dotnet/api/system.buffer.memorycopy?view=net-6.0
+
 https://github.com/search?l=C%23&q=read+++process+memory+data&type=Repositories
+
 https://en.wikipedia.org/wiki/DLL_injection
+
 https://www.jianshu.com/p/f8a210a97860
+
 https://github.com/cheat-engine/cheat-engine/releases
+
 https://www.toptal.com/algorithms/aho-corasick-algorithm
+
 https://developer.aliyun.com/article/945743
+
 https://www.itdaan.com/blog/2010/03/15/c765ee0c8e08.html
+
 https://www.itdaan.com/keywords/%E5%86%85%E5%AD%98%E7%89%B9%E5%BE%81%E7%A0%81%E6%9F%A5%E6%89%BE+%E6%91%B8%E7%B4%A2.html
 https://blog.csdn.net/qq_41687938/article/details/120479067?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2~default~OPENSEARCH~Rate-2-120479067-blog-25563.topnsimilarv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~OPENSEARCH~Rate-2-120479067-blog-25563.topnsimilarv1&utm_relevant_index=3
+
 https://blog.csdn.net/Eastmount/article/details/107591832?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-107591832-blog-109656558.pc_relevant_multi_platform_whitelistv3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-107591832-blog-109656558.pc_relevant_multi_platform_whitelistv3&utm_relevant_index=2
+
 https://lyshark.blog.csdn.net/article/details/124939971?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-124939971-blog-104190610.pc_relevant_multi_platform_featuressortv2dupreplace&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-124939971-blog-104190610.pc_relevant_multi_platform_featuressortv2dupreplace&utm_relevant_index=2
+
 https://blog.csdn.net/weixin_39518639/article/details/114984395?spm=1001.2101.3001.6650.8&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-8-114984395-blog-125712970.pc_relevant_multi_platform_whitelistv5&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-8-114984395-blog-125712970.pc_relevant_multi_platform_whitelistv5&utm_relevant_index=14
+
 https://blog.csdn.net/qq_31738343/article/details/123012225?spm=1001.2101.3001.6650.6&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6-123012225-blog-124939971.pc_relevant_multi_platform_whitelistv3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6-123012225-blog-124939971.pc_relevant_multi_platform_whitelistv3&utm_relevant_index=7
+
 https://www.cnblogs.com/clover-xuqi/p/8005791.html
+
 https://blog.csdn.net/weixin_43781139/article/details/109702711?spm=1001.2014.3001.5502
+
 http://pinvoke.net/default.aspx/kernel32/ReadProcessMemory.html
 
 https://blog.csdn.net/changblade/article/details/82027440?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~default-1-82027440-blog-108104161.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~default-1-82027440-blog-108104161.pc_relevant_aa&utm_relevant_index=1
+
 https://blog.csdn.net/weixin_30646315/article/details/96708803?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-96708803-blog-7609853.pc_relevant_multi_platform_whitelistv2&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-96708803-blog-7609853.pc_relevant_multi_platform_whitelistv2&utm_relevant_index=1
+
 https://guishou.blog.csdn.net/article/details/104286261?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-104286261-blog-96708803.pc_relevant_multi_platform_whitelistv2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-104286261-blog-96708803.pc_relevant_multi_platform_whitelistv2&utm_relevant_index=2
+
 https://blog.csdn.net/weixin_42052102/article/details/83278680?spm=1001.2101.3001.6650.6&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-6-83278680-blog-96708803.pc_relevant_multi_platform_whitelistv2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-6-83278680-blog-96708803.pc_relevant_multi_platform_whitelistv2&utm_relevant_index=12
+
 https://blog.csdn.net/qq_50749602/article/details/123138794?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-4-123138794-blog-102969009.pc_relevant_multi_platform_whitelistv1&spm=1001.2101.3001.4242.3&utm_relevant_index=7
+
 https://blog.csdn.net/weixin_35890512/article/details/113315578?spm=1001.2101.3001.6650.10&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-10-113315578-blog-123138794.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-10-113315578-blog-123138794.pc_relevant_aa&utm_relevant_index=15
+
 https://blog.csdn.net/m0_46125480/article/details/121753421?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-121753421-blog-102969009.pc_relevant_multi_platform_whitelistv1&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-121753421-blog-102969009.pc_relevant_multi_platform_whitelistv1&utm_relevant_index=1
+
 https://blog.csdn.net/yuhijk2055/article/details/107813393?spm=1001.2101.3001.6650.13&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-13-107813393-blog-108104161.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-13-107813393-blog-108104161.pc_relevant_aa&utm_relevant_index=19
+
 https://blog.csdn.net/iteye_9368/article/details/82407725?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-2-82407725-blog-107813393.pc_relevant_multi_platform_whitelistv1_exp2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-2-82407725-blog-107813393.pc_relevant_multi_platform_whitelistv1_exp2&utm_relevant_index=5
+
 https://www.itdaan.com/so?q=%E4%BB%8E%E5%86%85%E5%AD%98%E4%B8%AD%E8%AF%BB%E5%8F%96%E6%83%B3%E8%A6%81%E7%9A%84%E6%95%B0%E6%8D%AE
+
 https://www.itdaan.com/blog/2009/09/18/f0047a1f24a77c2769c2689ef539a510.html
+
 https://www.itdaan.com/blog/2010/08/02/1f6dfcb1d36add69a45dead77270cab8.html
+
 https://www.itdaan.com/blog/2013/04/19/92e5aa94427eea8a3287d1a659f48df4.html
+
 https://www.itdaan.com/blog/2009/03/02/a31e1ea5f3f4e16c3e6b78d4ae4b2c9a.html
+
 https://www.itdaan.com/blog/2007/07/30/5d3258ebdea3.html
+
 https://github.com/Akaion/Jupiter
+
 https://github.com/misoag/MemoryScanner
 
 内存之植物大战僵尸
 https://blog.csdn.net/asciil/article/details/6991398?spm=1001.2101.3001.6650.8&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~default-8-6991398-blog-6991386.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~default-8-6991398-blog-6991386.pc_relevant_aa&utm_relevant_index=11
+
 https://it1995.blog.csdn.net/article/details/54670630?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-3-54670630-blog-6991398.pc_relevant_multi_platform_whitelistv2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-3-54670630-blog-6991398.pc_relevant_multi_platform_whitelistv2&utm_relevant_index=5
+
 https://blog.csdn.net/weixin_43990313/article/details/102333695?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase
 
 https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247485043&idx=1&sn=028c702990f722d087c6c349fb34f5fb&chksm=cfccb6bef8bb3fa8882994f7412db6b769d382abbafa6b5b3bd1b5ae62dffa20e81c7170ecb4&scene=21#wechat_redirect
 https://blog.csdn.net/weixin_43781139/article/details/110268683?spm=1001.2101.3001.6650.13&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-13-110268683-blog-104866791.pc_relevant_multi_platform_whitelistv4&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-13-110268683-blog-104866791.pc_relevant_multi_platform_whitelistv4&utm_relevant_index=14
+
 https://blog.csdn.net/qq_22723497/article/details/89683130?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-4-89683130-blog-110268683.pc_relevant_multi_platform_whitelistv3&spm=1001.2101.3001.4242.3&utm_relevant_index=7
+
 https://blog.csdn.net/mutashizhe/article/details/104190610?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166306209616800186555583%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=166306209616800186555583&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-1-104190610-null-null.nonecase&utm_term=%E5%86%85%E5%AD%98%E7%89%B9%E5%BE%81%E7%A0%81%E5%AE%9A%E4%BD%8D&spm=1018.2226.3001.4450
+
 https://blog.csdn.net/weixin_43781139/article/details/110268683?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_utm_term~default-0-110268683-blog-104190610.pc_relevant_multi_platform_featuressortv2dupreplace&spm=1001.2101.3001.4242.1&utm_relevant_index=3
+
 https://blog.csdn.net/JiangBuLiu/article/details/104866791
+
 https://blog.csdn.net/eastmount/category_9183790.html?utm_source=BWXQ_bottombtn&spm=1001.2101.3001.4225
 
 
@@ -873,30 +1110,53 @@ https://blog.csdn.net/eastmount/category_9183790.html?utm_source=BWXQ_bottombtn&
 
 防cheatengine
 https://github.com/fenix01/cheatengine-library
+
 https://github.com/Squalr/Squalr
+
 https://github.com/cheat-engine/cheat-engine
+
 https://github.com/ReClassNET/ReClass.NET
+
 https://www.unknowncheats.me/forum/c-/329673-cheat-engine.html
+
 https://stackoverflow.com/questions/28620186/using-pointers-found-in-cheat-engine-in-c-sharp
+
 https://github.com/makemek/cheatengine-threadstack-finder
+
 https://www.unknowncheats.me/forum/programming-for-beginners/110375-cheat-engine-finding-base-address-pointer-scan.html
+
 https://fearlessrevolution.com/
+
 https://forum.cheatengine.org/viewtopic.php?t=602281
+
 https://stackoverflow.com/questions/71152461/reading-memory-from-another-process-in-c-copilots-solution
+
 https://www.codeproject.com/Articles/4245/DevGlobalCache-A-way-to-Cache-and-Share-data-betwe
+
 https://sourceforge.net/projects/vicecheat/files/vicecheat/ViceCheat%200.9/
+
 https://www.codeproject.com/Articles/15680/How-to-write-a-Memory-Scanner-using-C
+
 https://www.codeproject.com/search.aspx?q=How+to+write+a+Memory+Scanner+using+C%23&x=7&y=7&sbo=kw
 
 https://www.796t.com/post/cW95cQ==.html
+
 https://www.codeguru.com/windows/three-ways-to-inject-your-code-into-another-process/
+
 https://www.codeproject.com/Articles/86215/Remote-Threads-Basics-Part-1
+
 https://cloud.tencent.com/developer/article/1044214
+
 https://anhkgg.com/aanti-virus/
+
 https://github.com/microsoft/msccl
+
 https://cloud.tencent.com/developer/article/2011190
+
 https://github.com/lengjibo/FourEye
+
 https://blog.csdn.net/weixin_35890512/article/details/113315578
+
 https://codeantenna.com/a/JtjbvvpayI
 
 
